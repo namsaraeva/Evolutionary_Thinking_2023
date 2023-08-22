@@ -1,14 +1,14 @@
-# Evolutionary_Thinking_2022
+# Evolutionary_Thinking_2023
 
-Exercises contents for 2022 Autumn Evolutionary Thinking course, Aarhus University
-
-
-Jilong Ma
-
-Contact: [aujilongm@birc.au.dk]
+Exercises contents for 2023 Autumn Evolutionary Thinking course, Aarhus University
 
 
-Special Thanks to Moisès Coll Macià who structured the exercise materials.
+Bjarke Meyer Pedersen
+
+Contact: [bjarke@birc.au.dk]
+
+
+Special Thanks to Moisès Coll Macià who structured the exercise materials and Jilong Ma from whom I forked (stole) the repository.
 
 ## Outline
 
