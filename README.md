@@ -92,7 +92,7 @@ Genetic drift and population size
 
 #### Session 2
 
-BIRC seminar
+### HER MANGLER NOGET 
 
 ### Week7
 #### [Session 1](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week41/Wednesday) Selection
@@ -108,3 +108,65 @@ Genetic hitchhiking and selection sweep
 Methods of selection detection
 
 #### [Session 2](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week41/Friday) Testing for selection using dn/ds
+
+### Week8
+Paper discussion on selection 
+#### [Session 1](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week43/Wednesday) 
+
+HAND-IN II 
+#### [Session 2](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week43/Friday) Work on hand-in II
+
+### Week9
+Paper discussion on Gene duplication 
+#### [Session 1](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week44/Wednesday) 
+
+MEGAX and gene duplication
+#### [Session 2](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week44/Friday) MEGAX exercise 
+
+### Week10
+Paper discussion on the Y-chromosome
+#### [Session 1](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week45/Wednesday) 
+
+R exercise and data from Wednesdays paper by Skov L. Et al. 
+#### [Session 2](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week45/Friday) R exercise 
+
+### Week11
+Paper discussion on Phylogenetic incongruences 
+#### [Session 1](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week46/Wednesday) 
+
+MEGAX and Incongruences 
+#### [Session 2](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week46/Friday) MEGAX exercise 
+
+
+### Week12
+Paper discussion on Ancient Selection 
+#### [Session 1](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week47/Wednesday) 
+
+R exercise and the infamous PCA 
+#### [Session 2](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week47/Friday) R exercise
+#### [Hand-in-III](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/handin_3) Hand-in III
+
+
+
+### Week13
+### TBA
+#### [Session 1]
+
+### TBA
+#### [Session 2]()
+
+
+### Week14 the last week 
+Hand-in III correction 
+#### [Session 1]
+
+Evaluation and talk about the entire semester (maybe even cake)
+#### [Session 2]
+
+
+
+
+
+
+
+
