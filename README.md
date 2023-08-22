@@ -13,7 +13,7 @@ Special Thanks to Moisès Coll Macià who structured the exercise materials and 
 ## Outline
 
 ### Week 1
-#### [Session 1] (https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week35/Wednesday) Reading the Tree and Installing MEGA 
+#### [Session 1](https://github.com/Bjarke-M/Evolutionary_Thinking_2023/tree/main/week35/Wednesday) Reading the Tree and Installing MEGA 
 Short Intro
 
 Basic concepts in reading phylogeny trees.
