@@ -5,7 +5,7 @@ Exercises contents for 2023 Autumn Evolutionary Thinking course, Aarhus Universi
 
 Bjarke Meyer Pedersen bjarke@birc.au.dk
 Calin Pantea cpantea@birc.au.dk
-
+comment
 
 
 Special Thanks to Moisès Coll Macià who structured the exercise materials and Jilong Ma from whom I forked (stole) the repository.
