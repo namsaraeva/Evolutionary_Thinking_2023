@@ -15,11 +15,29 @@ In order to use GenBank efficiently, as other databases such as [PubMed](https:/
 
 By searching papers in [PubMed](https://pubmed.ncbi.nlm.nih.gov) and [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) (and Google for sure), answer the following questions:
 
-1. Find and download the paper of the first sequence of the human genome by the International Human Genome Sequencing Consortium or the one assembled by Craig Venter et al in 2001. Where was it published? How can the sequence be obtained?
+1. Find and download the paper of the first sequence of the human genome by the International Human Genome Sequencing Consortium or the one assembled by Craig Venter et al in 2001. Where was it published? 
+
+The paper was published on Feb 16, 2001 at the Science journal. 
+
 2. Find the paper on the high coverage archaic Denisovan sequence published by Svante Pääbo's group published in 2012 and answer the same questions. Who were the Denisovans?
+
+"A high-coverage genome sequence from an archaic Denisovan individual", the paper was published in the Science journal on October 12, 2012. 
+
+Denisovans were archaic humans closely related to Neandertals, whose populations overlapped with the ancestors of modern-day humans. 
+
 3. How many sequences from the dolphin (you might want to use the latin name *Delphinidae*) can you find? You can choose any other animal!
+
+26 genomes for dolphins
+
+5 genomes for domestic cats
+   
 4. Find the Taxonomic position of Dolphins and find the number of DNA sequences deposited in GenBank for some of the dolphin species
+
+<img width="516" alt="Bildschirm­foto 2023-09-01 um 14 59 44" src="https://github.com/namsaraeva/Evolutionary_Thinking_2023/assets/99650244/02c9b52f-6730-4137-b8ca-2b00ab9f9479">
+ 
 5. Find sequences from FOXP2. What can you learn about this protein?
+
+protein-coding, forkhead box P2,  it is expressed in fetal and adult brain as well as in several other organs such as the lung and gut. The protein product contains a FOX DNA-binding domain and a large polyglutamine tract and is an evolutionarily conserved transcription factor, which may bind directly to approximately 300 to 400 gene promoters in the human genome to regulate the expression of a variety of genes. 
 
 ### 2. Retrieving sequences from GenBank and Aligning them with MEGA11
 
